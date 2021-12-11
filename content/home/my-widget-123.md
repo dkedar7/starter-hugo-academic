@@ -1,5 +1,5 @@
 ---
-widget: HP
+widget: hero
 widget_id: my-widget-123
 headless: true
 weight: 1
